@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+PyPDF2 
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+sentence-transformers
+faiss-cpu
+python-dotenv
