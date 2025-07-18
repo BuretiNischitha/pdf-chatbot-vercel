@@ -1,0 +1,15 @@
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.env
+
+# Data that's processed, not source for deployment
+data/
+
+# Operating System files
+.DS_Store
+Thumbs.db
